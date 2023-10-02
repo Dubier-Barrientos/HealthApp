@@ -1,0 +1,6 @@
+tesseract-ocr
+tesseract-ocr-spa
+
+libgl1
+cmake
+libssl-dev
