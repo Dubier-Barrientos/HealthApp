@@ -17,11 +17,6 @@ st.title("Interfaces Multimodales")
 st.subheader("TRADUCTOR")
 
 
-image = Image.open('traductor.jpg')
-
-st.image(image)
-
-
 st.write("Toca el Botón y habla lo que quires traducir")
 
 stt_button = Button(label=" Inicio ", width=200)
