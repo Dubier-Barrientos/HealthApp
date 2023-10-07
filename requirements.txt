@@ -1,4 +1,5 @@
-streamlit
+streamlit==0.89.0
 speechrecognition==3.8.1
 textblob==0.15.3
 opencv-python==4.5.1.48
+bokeh==2.3.3
